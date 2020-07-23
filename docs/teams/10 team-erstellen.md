@@ -12,6 +12,6 @@ Dies ist ein Dossier
 
 Dies ist Text.
 
-![](http://365.muristalden.ch/docs/teams/img/email1.png)
+![](https://365.muristalden.ch/docs/teams/img/email1.png)
 
 Dies ist auch Text.
