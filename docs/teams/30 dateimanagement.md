@@ -12,6 +12,6 @@ Dies ist ein Dossier
 
 Dies ist Text.
 
-![email1](/docs/teams/img/email1.png)
+![](../docs/teams/img/email1.png)
 
 Dies ist auch Text.
