@@ -49,7 +49,7 @@
   },"8": {
     "doc": "Dateimanagement in Teams",
     "title": "Dies ist der Titel",
-    "content": "Dies ist ein Dossier . Dies ist Text. Dies ist auch Text. ",
+    "content": "Dies ist ein Dossier . Dies ist Text. Hoppla . Dies ist auch Text. ",
     "url": "http://localhost:4000/cmb365/docs/teams/dateimanagement#dies-ist-der-titel",
     "relUrl": "/docs/teams/dateimanagement#dies-ist-der-titel"
   },"9": {
