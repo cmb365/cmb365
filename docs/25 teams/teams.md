@@ -4,17 +4,16 @@ title: Microsoft Teams
 nav_order: 25
 has_children: true
 permalink: /docs/teams
+has_toc: false
 ---
 
-# Dossiers zu Grundlagenthemen
-
-Die Grundlagendossiers geben zu ganz unterschiedlichen Themen eine kurze Einführung mit Theorie und Beispielen. Dossiers
-dienen zudem auch als Dokumentation, auf die jederzeit zugegriffen werden kann.
+# Microsoft Teams
+We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI.
 {: .fs-6 .fw-300 }
 
 ---
 {% if page.has_children == true %}
-## Übersicht über alle Dossiers
+## Inhalt
 {% assign children_list = site.pages | sort:"nav_order" %}
 <ul>
   {% for child in children_list %}

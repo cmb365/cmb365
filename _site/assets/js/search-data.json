@@ -1,164 +1,140 @@
 {"0": {
-    "doc": "FAQ",
-    "title": "Frequently Asked Questions",
-    "content": "Häufig gestellte Fragen… . ",
-    "url": "http://localhost:4000/cmb365/docs/10%20faq/#frequently-asked-questions",
-    "relUrl": "/docs/10%20faq/#frequently-asked-questions"
-  },"1": {
-    "doc": "FAQ",
-    "title": "Übersicht",
-    "content": ". | Frage 1 | Frage 2 | . Hier häufig gestellte Fragen . ",
-    "url": "http://localhost:4000/cmb365/docs/10%20faq/#%C3%BCbersicht",
-    "relUrl": "/docs/10%20faq/#übersicht"
-  },"2": {
-    "doc": "FAQ",
-    "title": "Frage 1",
-    "content": "Wie geht das? Und das? . So gehts! . ",
-    "url": "http://localhost:4000/cmb365/docs/10%20faq/#frage-1",
-    "relUrl": "/docs/10%20faq/#frage-1"
-  },"3": {
-    "doc": "FAQ",
-    "title": "Frage 2",
-    "content": "Wie geht das? Und das? . So gehts! . ",
-    "url": "http://localhost:4000/cmb365/docs/10%20faq/#frage-2",
-    "relUrl": "/docs/10%20faq/#frage-2"
-  },"4": {
-    "doc": "FAQ",
-    "title": "FAQ",
-    "content": " ",
-    "url": "http://localhost:4000/cmb365/docs/10%20faq/",
-    "relUrl": "/docs/10%20faq/"
-  },"5": {
     "doc": "Ein Team erstellen",
     "title": "Dies ist der Titel",
     "content": "Dies ist ein Dossier . Dies ist Text. Dies ist auch Text. ",
     "url": "http://localhost:4000/cmb365/docs/teams/team-erstellen#dies-ist-der-titel",
     "relUrl": "/docs/teams/team-erstellen#dies-ist-der-titel"
-  },"6": {
+  },"1": {
     "doc": "Ein Team erstellen",
     "title": "Ein Team erstellen",
     "content": " ",
     "url": "http://localhost:4000/cmb365/docs/teams/team-erstellen",
     "relUrl": "/docs/teams/team-erstellen"
-  },"7": {
-    "doc": "Installation Office 365",
-    "title": "Frequently Asked Questions",
-    "content": "Häufig gestellte Fragen… . ",
-    "url": "http://localhost:4000/cmb365/docs/15%20installation/#frequently-asked-questions",
-    "relUrl": "/docs/15%20installation/#frequently-asked-questions"
-  },"8": {
-    "doc": "Installation Office 365",
-    "title": "Übersicht",
-    "content": ". | Frage 1 | Frage 2 | . Hier häufig gestellte Fragen . ",
-    "url": "http://localhost:4000/cmb365/docs/15%20installation/#%C3%BCbersicht",
-    "relUrl": "/docs/15%20installation/#übersicht"
-  },"9": {
-    "doc": "Installation Office 365",
-    "title": "Frage 1",
-    "content": "Wie geht das? Und das? . So gehts! . ",
-    "url": "http://localhost:4000/cmb365/docs/15%20installation/#frage-1",
-    "relUrl": "/docs/15%20installation/#frage-1"
-  },"10": {
-    "doc": "Installation Office 365",
-    "title": "Frage 2",
-    "content": "Wie geht das? Und das? . So gehts! . ",
-    "url": "http://localhost:4000/cmb365/docs/15%20installation/#frage-2",
-    "relUrl": "/docs/15%20installation/#frage-2"
-  },"11": {
-    "doc": "Installation Office 365",
-    "title": "Installation Office 365",
-    "content": " ",
+  },"2": {
+    "doc": "Office 365 Installation",
+    "title": "Office 365 Installation",
+    "content": "Hier kommt 1 Inhalt. ",
     "url": "http://localhost:4000/cmb365/docs/15%20installation/",
     "relUrl": "/docs/15%20installation/"
-  },"12": {
-    "doc": "Office 365 Account",
-    "title": "Frequently Asked Questions",
-    "content": "Häufig gestellte Fragen… . ",
-    "url": "http://localhost:4000/cmb365/docs/20%20account/#frequently-asked-questions",
-    "relUrl": "/docs/20%20account/#frequently-asked-questions"
-  },"13": {
-    "doc": "Office 365 Account",
-    "title": "Übersicht",
-    "content": ". | Frage 1 | Frage 2 | . Hier häufig gestellte Fragen . ",
-    "url": "http://localhost:4000/cmb365/docs/20%20account/#%C3%BCbersicht",
-    "relUrl": "/docs/20%20account/#übersicht"
-  },"14": {
-    "doc": "Office 365 Account",
-    "title": "Frage 1",
-    "content": "Wie geht das? Und das? . So gehts! . ",
-    "url": "http://localhost:4000/cmb365/docs/20%20account/#frage-1",
-    "relUrl": "/docs/20%20account/#frage-1"
-  },"15": {
-    "doc": "Office 365 Account",
-    "title": "Frage 2",
-    "content": "Wie geht das? Und das? . So gehts! . ",
-    "url": "http://localhost:4000/cmb365/docs/20%20account/#frage-2",
-    "relUrl": "/docs/20%20account/#frage-2"
-  },"16": {
+  },"3": {
+    "doc": "Office 365 Installation",
+    "title": "Hallo Velo",
+    "content": " ",
+    "url": "http://localhost:4000/cmb365/docs/15%20installation/#hallo-velo",
+    "relUrl": "/docs/15%20installation/#hallo-velo"
+  },"4": {
     "doc": "Office 365 Account",
     "title": "Office 365 Account",
-    "content": " ",
+    "content": "Hier kommt 1 Inhalt. ",
     "url": "http://localhost:4000/cmb365/docs/20%20account/",
     "relUrl": "/docs/20%20account/"
-  },"17": {
+  },"5": {
+    "doc": "Office 365 Account",
+    "title": "Hallo Velo",
+    "content": " ",
+    "url": "http://localhost:4000/cmb365/docs/20%20account/#hallo-velo",
+    "relUrl": "/docs/20%20account/#hallo-velo"
+  },"6": {
     "doc": "Kommunikation in Teams",
     "title": "Dies ist der Titel",
     "content": "Dies ist ein Dossier . Dies ist Text. Dies ist auch Text. ",
     "url": "http://localhost:4000/cmb365/docs/teams/kommunikation#dies-ist-der-titel",
     "relUrl": "/docs/teams/kommunikation#dies-ist-der-titel"
-  },"18": {
+  },"7": {
     "doc": "Kommunikation in Teams",
     "title": "Kommunikation in Teams",
     "content": " ",
     "url": "http://localhost:4000/cmb365/docs/teams/kommunikation",
     "relUrl": "/docs/teams/kommunikation"
-  },"19": {
+  },"8": {
     "doc": "Dateimanagement in Teams",
     "title": "Dies ist der Titel",
     "content": "Dies ist ein Dossier . Dies ist Text. Dies ist auch Text. ",
     "url": "http://localhost:4000/cmb365/docs/teams/dateimanagement#dies-ist-der-titel",
     "relUrl": "/docs/teams/dateimanagement#dies-ist-der-titel"
-  },"20": {
+  },"9": {
     "doc": "Dateimanagement in Teams",
     "title": "Dateimanagement in Teams",
     "content": " ",
     "url": "http://localhost:4000/cmb365/docs/teams/dateimanagement",
     "relUrl": "/docs/teams/dateimanagement"
-  },"21": {
+  },"10": {
+    "doc": "Microsoft OneNote",
+    "title": "Microsoft OneNote",
+    "content": "Hier kommt 1 Inhalt. ",
+    "url": "http://localhost:4000/cmb365/docs/30%20onenote/",
+    "relUrl": "/docs/30%20onenote/"
+  },"11": {
+    "doc": "Microsoft OneNote",
+    "title": "Hallo Velo",
+    "content": " ",
+    "url": "http://localhost:4000/cmb365/docs/30%20onenote/#hallo-velo",
+    "relUrl": "/docs/30%20onenote/#hallo-velo"
+  },"12": {
+    "doc": "Microsoft OneDrive",
+    "title": "Microsoft OneDrive",
+    "content": "Hier kommt 1 Inhalt. ",
+    "url": "http://localhost:4000/cmb365/docs/35%20onedrive/",
+    "relUrl": "/docs/35%20onedrive/"
+  },"13": {
+    "doc": "Microsoft OneDrive",
+    "title": "Hallo Velo",
+    "content": " ",
+    "url": "http://localhost:4000/cmb365/docs/35%20onedrive/#hallo-velo",
+    "relUrl": "/docs/35%20onedrive/#hallo-velo"
+  },"14": {
+    "doc": "Microsoft Sharepoint",
+    "title": "Microsoft Sharepoint",
+    "content": "Hier kommt 1 Inhalt. ",
+    "url": "http://localhost:4000/cmb365/docs/40%20sharepoint/",
+    "relUrl": "/docs/40%20sharepoint/"
+  },"15": {
+    "doc": "Microsoft Sharepoint",
+    "title": "Hallo Velo",
+    "content": " ",
+    "url": "http://localhost:4000/cmb365/docs/40%20sharepoint/#hallo-velo",
+    "relUrl": "/docs/40%20sharepoint/#hallo-velo"
+  },"16": {
+    "doc": "Microsoft Forms",
+    "title": "Microsoft Forms",
+    "content": "Hier kommt 1 Inhalt. ",
+    "url": "http://localhost:4000/cmb365/docs/45%20forms/",
+    "relUrl": "/docs/45%20forms/"
+  },"17": {
+    "doc": "Microsoft Forms",
+    "title": "Hallo Velo",
+    "content": " ",
+    "url": "http://localhost:4000/cmb365/docs/45%20forms/#hallo-velo",
+    "relUrl": "/docs/45%20forms/#hallo-velo"
+  },"18": {
     "doc": "Home",
     "title": "Office 365 Support und Anleitungen",
-    "content": "We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. Get started now . ",
+    "content": "We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. ",
     "url": "http://localhost:4000/cmb365/#office-365-support-und-anleitungen",
     "relUrl": "/#office-365-support-und-anleitungen"
-  },"22": {
+  },"19": {
     "doc": "Home",
-    "title": "Inhalt",
-    "content": ". ",
-    "url": "http://localhost:4000/cmb365/#inhalt",
-    "relUrl": "/#inhalt"
-  },"23": {
+    "title": "FAQ und Quick Links",
+    "content": "  . Ich habe mein Passwort vergessen… . Passwort zurücksetzen .   . Ich würde gerne ein Team erstellen . Team erstellen .   . Problem . Link .   . Problem . Link .   . Problem . Link .   . Problem . Link . ",
+    "url": "http://localhost:4000/cmb365/#faq-und-quick-links",
+    "relUrl": "/#faq-und-quick-links"
+  },"20": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/cmb365/",
     "relUrl": "/"
-  },"24": {
-    "doc": "Microsoft Teams",
-    "title": "Dossiers zu Grundlagenthemen",
-    "content": "Die Grundlagendossiers geben zu ganz unterschiedlichen Themen eine kurze Einführung mit Theorie und Beispielen. Dossiers dienen zudem auch als Dokumentation, auf die jederzeit zugegriffen werden kann. ",
-    "url": "http://localhost:4000/cmb365/docs/teams#dossiers-zu-grundlagenthemen",
-    "relUrl": "/docs/teams#dossiers-zu-grundlagenthemen"
-  },"25": {
-    "doc": "Microsoft Teams",
-    "title": "Übersicht über alle Dossiers",
-    "content": ". | Ein Team erstellen | Kommunikation in Teams | Dateimanagement in Teams | . ",
-    "url": "http://localhost:4000/cmb365/docs/teams#%C3%BCbersicht-%C3%BCber-alle-dossiers",
-    "relUrl": "/docs/teams#übersicht-über-alle-dossiers"
-  },"26": {
+  },"21": {
     "doc": "Microsoft Teams",
     "title": "Microsoft Teams",
-    "content": " ",
+    "content": "We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. ",
     "url": "http://localhost:4000/cmb365/docs/teams",
     "relUrl": "/docs/teams"
+  },"22": {
+    "doc": "Microsoft Teams",
+    "title": "Inhalt",
+    "content": ". | Ein Team erstellen | Kommunikation in Teams | Dateimanagement in Teams | . ",
+    "url": "http://localhost:4000/cmb365/docs/teams#inhalt",
+    "relUrl": "/docs/teams#inhalt"
   }
 }
