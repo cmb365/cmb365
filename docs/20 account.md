@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Office 365 Account
+title: Account und Passwort
+permalink: /docs/account
 nav_order: 20
 ---
 
