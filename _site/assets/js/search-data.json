@@ -119,37 +119,37 @@
     "url": "http://localhost:4000/cmb365/docs/30%20onenote/#hallo-velo",
     "relUrl": "/docs/30%20onenote/#hallo-velo"
   },"20": {
-    "doc": "Microsoft OneDrive",
-    "title": "Microsoft OneDrive",
+    "doc": "Microsoft Online Apps",
+    "title": "Microsoft Online Apps",
     "content": "Hier kommt 1 Inhalt. ",
-    "url": "http://localhost:4000/cmb365/docs/35%20onedrive/",
-    "relUrl": "/docs/35%20onedrive/"
+    "url": "http://localhost:4000/cmb365/docs/35%20online/",
+    "relUrl": "/docs/35%20online/"
   },"21": {
-    "doc": "Microsoft OneDrive",
+    "doc": "Microsoft Online Apps",
     "title": "Hallo Velo",
     "content": " ",
-    "url": "http://localhost:4000/cmb365/docs/35%20onedrive/#hallo-velo",
-    "relUrl": "/docs/35%20onedrive/#hallo-velo"
+    "url": "http://localhost:4000/cmb365/docs/35%20online/#hallo-velo",
+    "relUrl": "/docs/35%20online/#hallo-velo"
   },"22": {
-    "doc": "Microsoft Sharepoint",
-    "title": "Microsoft Sharepoint",
+    "doc": "Microsoft Office",
+    "title": "Microsoft Office",
     "content": "Hier kommt 1 Inhalt. ",
-    "url": "http://localhost:4000/cmb365/docs/40%20sharepoint/",
-    "relUrl": "/docs/40%20sharepoint/"
+    "url": "http://localhost:4000/cmb365/docs/40%20office/",
+    "relUrl": "/docs/40%20office/"
   },"23": {
-    "doc": "Microsoft Sharepoint",
+    "doc": "Microsoft Office",
     "title": "Hallo Velo",
     "content": " ",
-    "url": "http://localhost:4000/cmb365/docs/40%20sharepoint/#hallo-velo",
-    "relUrl": "/docs/40%20sharepoint/#hallo-velo"
+    "url": "http://localhost:4000/cmb365/docs/40%20office/#hallo-velo",
+    "relUrl": "/docs/40%20office/#hallo-velo"
   },"24": {
-    "doc": "Microsoft Forms",
-    "title": "Microsoft Forms",
+    "doc": "Digitale Selbstverteidigung",
+    "title": "Digitale Selbstverteidigung",
     "content": "Hier kommt 1 Inhalt. ",
     "url": "http://localhost:4000/cmb365/docs/45%20forms/",
     "relUrl": "/docs/45%20forms/"
   },"25": {
-    "doc": "Microsoft Forms",
+    "doc": "Digitale Selbstverteidigung",
     "title": "Hallo Velo",
     "content": " ",
     "url": "http://localhost:4000/cmb365/docs/45%20forms/#hallo-velo",
