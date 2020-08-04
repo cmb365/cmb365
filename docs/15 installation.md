@@ -35,7 +35,7 @@ Es wird empfohlen, die Installation in der folgenden Reihenfolge durchzuführen:
 
 3. Wenn du dich erfolgreich ins Portal eingeloggt hast, kannst du via _Office installieren_ und _Office 365-Apps_ das Microsoft Office 365-Paket herunterladen.
 
-![img/install.png](../img/install.png "Installation")
+![img/download.png](../docs/img/download.png "Download")
 
 4. Bitte darauf achten, unter welchem Username du dich einloggst (rechts oben erscheint dein User Kür-zel). Die Browser und auch die MS Plattform merken sich gerne die Logindaten, sodass du eventuell manuell umschalten (aus- und neu einloggen mit verschiedenen Benutzernamen) musst. 
 
