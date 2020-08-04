@@ -35,9 +35,20 @@ Es wird empfohlen, die Installation in der folgenden Reihenfolge durchzuführen:
 
 3. Wenn du dich erfolgreich ins Portal eingeloggt hast, kannst du via _Office installieren_ und _Office 365-Apps_ das Microsoft Office 365-Paket herunterladen.
 
-![img/download.png](../docs/img/download.png "Download")
+    ![docs/img/download.png](../docs/img/download.png "Download")
 
-4. Bitte darauf achten, unter welchem Username du dich einloggst (rechts oben erscheint dein User Kür-zel). Die Browser und auch die MS Plattform merken sich gerne die Logindaten, sodass du eventuell manuell umschalten (aus- und neu einloggen mit verschiedenen Benutzernamen) musst. 
+4. Nach erfolgreichem Download das Paket lokal installieren und den Anweisungen der Installations-Software folgen. Wenn die Installation erfolgt ist, sollten folgende Programme installiert sein:
+    
+    - Microsoft Teams
+    - Microsoft OneDrive
+    - Microsoft OneNote
+    - Microsoft Word
+    - Microsoft Excel
+    - Microsoft Powerpoint
+    - Microsoft Outlook
+
+5. Starte eines der Programme. Du wirst nochmal aufgefordert dich mit deinen Login-Daten anzumelden. Danach solltest die alle Office-Programme verwenden können. 
+
 
 
 ## Microsoft OneDrive
@@ -56,3 +67,5 @@ xxx
 xxx
 
 
+## Optional: Microsoft Office 365 im Browser
+xxx
