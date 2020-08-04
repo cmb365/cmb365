@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Account und Passwort
+title: Account, Email und Passwort
 permalink: /docs/account
 nav_order: 20
 ---

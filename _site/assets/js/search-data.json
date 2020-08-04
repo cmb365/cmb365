@@ -13,124 +13,154 @@
   },"2": {
     "doc": "Office 365 Installation",
     "title": "Office 365 Installation",
-    "content": "Hier kommt 1 Inhalt. ",
-    "url": "http://localhost:4000/cmb365/docs/15%20installation/",
-    "relUrl": "/docs/15%20installation/"
+    "content": "Auf dieser Seite wird beschrieben, wie du dein Microsoft Office 365 erstmalig zum Laufen bringst. Folgende Angaben musst du zwingend von der Schule zur Verfügung bekommen haben, um loslegen zu können: . - Muristalden Email-Adresse, z.B. vorname.name@stud.muristalden.ch - Initial-Passwort . Es wird empfohlen, die Installation in der folgenden Reihenfolge durchzuführen: . Inhalt . | Initial-Installation | Microsoft OneDrive | Microsoft Teams | Microsoft Sharepoint | Optional: Microsoft Outlook | . ",
+    "url": "http://localhost:4000/cmb365/docs/installation",
+    "relUrl": "/docs/installation"
   },"3": {
     "doc": "Office 365 Installation",
-    "title": "Hallo Velo",
-    "content": " ",
-    "url": "http://localhost:4000/cmb365/docs/15%20installation/#hallo-velo",
-    "relUrl": "/docs/15%20installation/#hallo-velo"
+    "title": "Initial-Installation",
+    "content": ". | Gehe auf https://www.office.com, klicke auf Anmelden. Logge dich dann mit den zur Verfügung gestellten Anmeldedaten in das Office 365-Portal ein. | Beim ersten Einloggen in das Office 365-Portal muss man sich registrieren. Dafür muss man sich mit einer privaten Email-Adresse und einer Handynummer identifizieren. Bitte diese Daten bereithalten und den Instruktionen beim erstmaligen Login von Microsoft folgen. | Wenn du dich erfolgreich ins Portal eingeloggt hast, kannst du via Office installieren und Office 365-Apps das Microsoft Office 365-Paket herunterladen. | . | Bitte darauf achten, unter welchem Username du dich einloggst (rechts oben erscheint dein User Kür-zel). Die Browser und auch die MS Plattform merken sich gerne die Logindaten, sodass du eventuell manuell umschalten (aus- und neu einloggen mit verschiedenen Benutzernamen) musst. | . ",
+    "url": "http://localhost:4000/cmb365/docs/installation#initial-installation",
+    "relUrl": "/docs/installation#initial-installation"
   },"4": {
-    "doc": "Office 365 Account",
+    "doc": "Office 365 Installation",
+    "title": "Microsoft OneDrive",
+    "content": "xxx . ",
+    "url": "http://localhost:4000/cmb365/docs/installation#microsoft-onedrive",
+    "relUrl": "/docs/installation#microsoft-onedrive"
+  },"5": {
+    "doc": "Office 365 Installation",
+    "title": "Microsoft Teams",
+    "content": "xxx . ",
+    "url": "http://localhost:4000/cmb365/docs/installation#microsoft-teams",
+    "relUrl": "/docs/installation#microsoft-teams"
+  },"6": {
+    "doc": "Office 365 Installation",
+    "title": "Microsoft Sharepoint",
+    "content": "xxx . ",
+    "url": "http://localhost:4000/cmb365/docs/installation#microsoft-sharepoint",
+    "relUrl": "/docs/installation#microsoft-sharepoint"
+  },"7": {
+    "doc": "Office 365 Installation",
+    "title": "Optional: Microsoft Outlook",
+    "content": "xxx . ",
+    "url": "http://localhost:4000/cmb365/docs/installation#optional-microsoft-outlook",
+    "relUrl": "/docs/installation#optional-microsoft-outlook"
+  },"8": {
+    "doc": "Account, Email und Passwort",
     "title": "Office 365 Account",
     "content": "Hier kommt 1 Inhalt. ",
-    "url": "http://localhost:4000/cmb365/docs/20%20account/",
-    "relUrl": "/docs/20%20account/"
-  },"5": {
-    "doc": "Office 365 Account",
+    "url": "http://localhost:4000/cmb365/docs/account#office-365-account",
+    "relUrl": "/docs/account#office-365-account"
+  },"9": {
+    "doc": "Account, Email und Passwort",
     "title": "Hallo Velo",
     "content": " ",
-    "url": "http://localhost:4000/cmb365/docs/20%20account/#hallo-velo",
-    "relUrl": "/docs/20%20account/#hallo-velo"
-  },"6": {
+    "url": "http://localhost:4000/cmb365/docs/account#hallo-velo",
+    "relUrl": "/docs/account#hallo-velo"
+  },"10": {
+    "doc": "Account, Email und Passwort",
+    "title": "Account, Email und Passwort",
+    "content": " ",
+    "url": "http://localhost:4000/cmb365/docs/account",
+    "relUrl": "/docs/account"
+  },"11": {
     "doc": "Kommunikation in Teams",
     "title": "Dies ist der Titel",
     "content": "Dies ist ein Dossier . Dies ist Text. Dies ist auch Text. ",
     "url": "http://localhost:4000/cmb365/docs/teams/kommunikation#dies-ist-der-titel",
     "relUrl": "/docs/teams/kommunikation#dies-ist-der-titel"
-  },"7": {
+  },"12": {
     "doc": "Kommunikation in Teams",
     "title": "Kommunikation in Teams",
     "content": " ",
     "url": "http://localhost:4000/cmb365/docs/teams/kommunikation",
     "relUrl": "/docs/teams/kommunikation"
-  },"8": {
+  },"13": {
     "doc": "Dateimanagement in Teams",
     "title": "Dies ist der Titel",
     "content": "Dies ist ein Dossier . Dies ist Text. Hoppla . Dies ist auch Text. ",
     "url": "http://localhost:4000/cmb365/docs/teams/dateimanagement#dies-ist-der-titel",
     "relUrl": "/docs/teams/dateimanagement#dies-ist-der-titel"
-  },"9": {
+  },"14": {
     "doc": "Dateimanagement in Teams",
     "title": "Dateimanagement in Teams",
     "content": " ",
     "url": "http://localhost:4000/cmb365/docs/teams/dateimanagement",
     "relUrl": "/docs/teams/dateimanagement"
-  },"10": {
+  },"15": {
     "doc": "Microsoft OneNote",
     "title": "Microsoft OneNote",
     "content": "Hier kommt 1 Inhalt. ",
     "url": "http://localhost:4000/cmb365/docs/30%20onenote/",
     "relUrl": "/docs/30%20onenote/"
-  },"11": {
+  },"16": {
     "doc": "Microsoft OneNote",
     "title": "Hallo Velo",
     "content": " ",
     "url": "http://localhost:4000/cmb365/docs/30%20onenote/#hallo-velo",
     "relUrl": "/docs/30%20onenote/#hallo-velo"
-  },"12": {
+  },"17": {
     "doc": "Microsoft OneDrive",
     "title": "Microsoft OneDrive",
     "content": "Hier kommt 1 Inhalt. ",
     "url": "http://localhost:4000/cmb365/docs/35%20onedrive/",
     "relUrl": "/docs/35%20onedrive/"
-  },"13": {
+  },"18": {
     "doc": "Microsoft OneDrive",
     "title": "Hallo Velo",
     "content": " ",
     "url": "http://localhost:4000/cmb365/docs/35%20onedrive/#hallo-velo",
     "relUrl": "/docs/35%20onedrive/#hallo-velo"
-  },"14": {
+  },"19": {
     "doc": "Microsoft Sharepoint",
     "title": "Microsoft Sharepoint",
     "content": "Hier kommt 1 Inhalt. ",
     "url": "http://localhost:4000/cmb365/docs/40%20sharepoint/",
     "relUrl": "/docs/40%20sharepoint/"
-  },"15": {
+  },"20": {
     "doc": "Microsoft Sharepoint",
     "title": "Hallo Velo",
     "content": " ",
     "url": "http://localhost:4000/cmb365/docs/40%20sharepoint/#hallo-velo",
     "relUrl": "/docs/40%20sharepoint/#hallo-velo"
-  },"16": {
+  },"21": {
     "doc": "Microsoft Forms",
     "title": "Microsoft Forms",
     "content": "Hier kommt 1 Inhalt. ",
     "url": "http://localhost:4000/cmb365/docs/45%20forms/",
     "relUrl": "/docs/45%20forms/"
-  },"17": {
+  },"22": {
     "doc": "Microsoft Forms",
     "title": "Hallo Velo",
     "content": " ",
     "url": "http://localhost:4000/cmb365/docs/45%20forms/#hallo-velo",
     "relUrl": "/docs/45%20forms/#hallo-velo"
-  },"18": {
+  },"23": {
     "doc": "Home",
     "title": "Office 365 Support und Anleitungen",
     "content": "We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. ",
     "url": "http://localhost:4000/cmb365/#office-365-support-und-anleitungen",
     "relUrl": "/#office-365-support-und-anleitungen"
-  },"19": {
+  },"24": {
     "doc": "Home",
     "title": "FAQ und Quick Links",
     "content": "  . Ich habe mein Passwort vergessen… . Passwort zurücksetzen .   . Ich würde gerne ein Team erstellen . Team erstellen .   . Problem . Link .   . Problem . Link .   . Problem . Link .   . Problem . Link . ",
     "url": "http://localhost:4000/cmb365/#faq-und-quick-links",
     "relUrl": "/#faq-und-quick-links"
-  },"20": {
+  },"25": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/cmb365/",
     "relUrl": "/"
-  },"21": {
+  },"26": {
     "doc": "Microsoft Teams",
     "title": "Microsoft Teams",
     "content": "We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. ",
     "url": "http://localhost:4000/cmb365/docs/teams",
     "relUrl": "/docs/teams"
-  },"22": {
+  },"27": {
     "doc": "Microsoft Teams",
     "title": "Inhalt",
     "content": ". | Ein Team erstellen | Kommunikation in Teams | Dateimanagement in Teams | . ",
