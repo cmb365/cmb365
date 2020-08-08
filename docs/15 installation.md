@@ -29,11 +29,11 @@ Es wird empfohlen, die Installation in der folgenden Reihenfolge durchzuführen:
 
 ## Initial-Installation
 
-1. Gehe auf [https://www.office.com](https://www.office.com/?omkt=de-CH), klicke auf _Anmelden_. Logge dich dann mit den zur Verfügung gestellten Anmeldedaten in das Office 365-Portal ein.  
+1. Gehe auf [https://www.office.com](https://www.office.com/?omkt=de-CH), klicke auf _Anmelden_. Logge dich dann mit den zur Verfügung gestellten Anmeldedaten in das Microsoft 365-Portal ein.  
 
-2. Beim ersten Einloggen in das Office 365-Portal muss man sich registrieren. Dafür muss man sich mit einer privaten Email-Adresse und einer Handynummer identifizieren. Bitte diese Daten bereithalten und den Instruktionen beim erstmaligen Login von Microsoft folgen. 
+2. Beim ersten Einloggen in das Microsoft 365-Portal muss man sich registrieren. Dafür muss man sich mit einer privaten Email-Adresse und einer Handynummer identifizieren. Bitte diese Daten bereithalten und den Instruktionen beim erstmaligen Login von Microsoft folgen. 
 
-3. Wenn du dich erfolgreich ins Portal eingeloggt hast, kannst du via _Office installieren_ und _Office 365-Apps_ das Microsoft Office 365-Paket herunterladen.
+3. Wenn du dich erfolgreich ins Portal eingeloggt hast, kannst du via _Office installieren_ und _Office 365-Apps_ das Microsoft 365-Paket herunterladen.
 
     ![docs/img/download.png](../docs/img/download.png "Download")
 
@@ -47,12 +47,13 @@ Es wird empfohlen, die Installation in der folgenden Reihenfolge durchzuführen:
     - Microsoft Powerpoint
     - Microsoft Outlook
 
-5. Starte eines der Programme. Du wirst nochmal aufgefordert dich mit deinen Login-Daten anzumelden. Danach solltest die alle Office-Programme verwenden können. 
+5. Starte eines der Programme. Du wirst nochmal aufgefordert dich mit deinen Login-Daten anzumelden. Danach solltest du alle Office-Programme verwenden können. 
 
 
 
 ## Microsoft OneDrive
-xxx
+
+OneDrive ist  
 
 
 ## Microsoft Teams
