@@ -8,6 +8,7 @@ nav_order: 20
 # Email, Schulnetz-Account und Passwort
 {: .no_toc }
 
+Auf dieser Seite findest du verschiedene Informationen zum Thema Emails abrufen, zum Umgang mit dem Schulnetz und wenn du Probleme mit deinem Passwort hast. 
 
 
 {: .mb-6 }
@@ -46,6 +47,8 @@ Beim ersten Laden des Outlook / Apple Mail mit dem neuen Account, muss die Ansic
 xxx
 
 
-## Passwort ändern / Passwort vergessen
+## Passwort ändern
 xxx
 
+## Passwort vergessen
+xxx

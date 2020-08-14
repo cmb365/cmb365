@@ -26,3 +26,9 @@ We envisioneer dynamic platforms and synthesize e-business architectures, always
 </ul>
 {% endif %}
 ---
+
+We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI.
+
+![code](../img/code.png)
+
+We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI.

@@ -6,13 +6,10 @@ nav_order: 30
 permalink: /docs/teams/dateimanagement
 ---
 
-# Dies ist der Titel
+# Dateimanagement in Teams
 
-Dies ist ein Dossier
+We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI.
 
-Dies ist Text.
+![code](../img/code.png)
 
-Hoppla
-![email1](../teams/img/email1.png)
-
-Dies ist auch Text.
+We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI.

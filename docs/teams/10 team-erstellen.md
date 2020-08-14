@@ -6,12 +6,10 @@ nav_order: 10
 permalink: /docs/teams/team-erstellen
 ---
 
-# Dies ist der Titel
+# Ein Team erstellen
 
-Dies ist ein Dossier
+We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI.
 
-Dies ist Text.
+![code](../img/code.png)
 
-![email1](../teams/img/email1.png)
-
-Dies ist auch Text.
+We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI.
