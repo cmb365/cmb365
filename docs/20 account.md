@@ -22,33 +22,46 @@ Auf dieser Seite findest du verschiedene Informationen zum Thema Emails abrufen,
 {:toc}
 </details>
 
-## Emails abrufen
+## Emails im Browser abrufen
 
-•	Kann als OWA (Outlook Web Access) im Browser geöffnet werden
--> https://outlook.office365.com/mail  oder wie im Bild per Link, welcher einen neuen Tab im Browser öffnet und dort das Outlook Postfach anzeigt.
+Emails können einfach und geräteunabhängig online über den Browser abgerufen werden. Dazu gibt es zwei Möglichkeiten:
 
-•	Kann in der Outlook App (Software) - sofern Office Software installiert – mit dem CMB Ac-count eingebunden werden. Bei einem Apple Gerät muss der alte Account über Einstellungen > Passwörter und Accounts gelöscht und neu eingebunden werden (Ebenfalls mit den CMB Logindaten). https://support.apple.com/de-ch/guide/mail/mlhlp1021/mac 
- 
-•	 Wenn du die E-Mail auf deinem Handy synchronisiert hast, muss du den Account löschen     und neu erstellen:
--> E-Mail: vorname.nachname@muristalden.ch 
--> PW: Das CMB Passwort   
+- Direkt bei Outlook einloggen (OWA - Outlook Web Access): [https://outlook.office365.com/mail](https://outlook.office365.com/mail). 
+- Alternativ zuerst bei [https://www.office.com](https://www.office.com) einloggen (z.B. weil einfacher zu merken). Einmal bei Office eingeloggt kann man oben links über die Navigation (9 Punkte-Symbol) in die Outlook Web App wechseln. 
 
-Generell gilt, den Exchange oder M365 Typ zu wählen, wenn während der Installation danach gefragt wird.
-Die Installationen eines E-Mail Accounts auf einem Handy sind je nach Handy Typ verschie-den, weshalb sich hier eine Google Suche für eine Anleitung sehr lohnt.
-https://support.microsoft.com/de-de/office/einrichten-von-ger%C3%A4ten-f%C3%BCr-office-365-7fb4b75b-b939-4241-bc84-6bd9b90a7a64
+## Emails lokal mit Outlook abrufen
 
-   
-•	ACHTUNG: E-Mail mit RELEVANZ: 
-Beim ersten Laden des Outlook / Apple Mail mit dem neuen Account, muss die Ansicht geän-dert werde. Ansonsten werden nicht alle E-Mails dargestellt: 
+Inhalt folgt...
 
 
+## Emails auf dem Smartphone abrufen
 
-## Schulnetz-Account
-xxx
+Beim Einrichten auf der Standard-Email-App deines Smartphones ist es wichtig, wenn möglich als Account-Typ eine der folgenden Optionen auszuwählen:
+
+- Microsoft 365
+- Outlook.com
+- Microsoft Exchange
+
+Auf einem iPhone gehen beide der folgend markierten Optionen:
+
+![docs/img/smartphone_email.png](../docs/img/smartphone_email.png "Smartphone Email")
+
+Die Installationen eines Email Accounts auf einem Smartphone ist je nach Modell verschieden. Eine Anleitung für verschiedene Smartphone-Modelle findet man auf der offiziellen Hilfe Seite von Microsoft, z.B. [hier](https://support.microsoft.com/de-de/office/einrichten-von-ger%C3%A4ten-f%C3%BCr-office-365-7fb4b75b-b939-4241-bc84-6bd9b90a7a64). 
 
 
 ## Passwort ändern
-xxx
+
+Zum Ändern des Passwortes muss man sich mit dem Browser in das Microsoft 365 Portal einloggen, z.B. unter [https://www.office.com](https://www.office.com). Nach dem erfolgreichen Einloggen kann man ganz oben rechts auf seinen Account klicken (man sieht entweder ein Kürzel oder sein ausgewähltes Profilfoto). Danach geht ein Optionsmenü auf, klicke da dann auf *Mein Konto*. Danach gibt es links in der Navigation die Möglichkeit, das Kennwort zu ändern. Siehe dazu auch die folgenden Screenshots.
+
+![docs/img/pwreset1.png](../docs/img/pwreset1.png "Passwort Reset")
+
+![docs/img/pwreset2.png](../docs/img/pwreset2.png "Passwort Reset")
 
 ## Passwort vergessen
-xxx
+
+Bei einem Verlust des Passwortes kann ein Passwort-Reset nur via Email beantragt werden. Dafür bitte ein Email an [it-support@muristalden.ch](mailto:it-support@muristalden.ch) senden. Das Email muss von der bei Office 365 hinterlegten privaten Email Adresse gesendet werden. 
+
+
+## Schulnetz-Account
+
+Inhalt folgt...

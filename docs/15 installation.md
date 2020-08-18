@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Office 365 Installation 
+title: Microsoft 365 Installation 
 nav_order: 15
 permalink: /docs/installation
 ---
 
-# Office 365 Installation 
+# Microsoft 365 Installation 
 {: .no_toc }
 
 Auf dieser Seite wird beschrieben, wie du dein Microsoft Office 365 erstmalig zum Laufen bringst. Folgende Angaben musst du zwingend von der Schule zur Verfügung bekommen haben, um loslegen zu können:
@@ -66,27 +66,27 @@ OneDrive ist eine Cloud-basierte Dateiablage. Mit einem Muristalden Microsoft 36
 
 ![docs/img/logos/logo_outlook.png](../docs/img/logos/logo_outlook.png "Outlook")
 
-Outlook ist ein Programm zum Verwalten von Emails. Das Einrichten von Outlook für die Schul-Email-Adresse wird sehr empfohlen. Nach der Einrichtung können Emails praktisch gelesen und geschrieben werden, ohne dass man sich immer mit dem Browser neu anmelden muss. Mit folgenden Schritten kann Outlook eingerichtet werden: 
+Outlook ist ein Programm zum Verwalten von Emails. Das Einrichten von Outlook für die Schul-Email-Adresse wird sehr empfohlen. Nach der Einrichtung können Emails praktisch in einer App gelesen und geschrieben werden, ohne dass man sich immer mit dem Browser neu anmelden muss. Mit folgenden Schritten kann Outlook eingerichtet werden: 
 
-1. xxx
+1. Outlook starten.
 
-2. xxx
+2. Mit dem Microsoft 365 Account einloggen.
 
-3. xxx
-
+3. Fertig. 
 
 ## Microsoft Teams
 
 ![docs/img/logos/logo_teams.png](../docs/img/logos/logo_teams.png "Teams")
 
-xxx
+Inhalt folgt...
 
 ## Microsoft Sharepoint
 
 ![docs/img/logos/logo_Sharepoint.png](../docs/img/logos/logo_sharepoint.png "Sharepoint")
 
-xxx
+Inhalt folgt...
 
 
 ## Optional: Microsoft Office 365 im Browser
-xxx
+
+Inhalt folgt...

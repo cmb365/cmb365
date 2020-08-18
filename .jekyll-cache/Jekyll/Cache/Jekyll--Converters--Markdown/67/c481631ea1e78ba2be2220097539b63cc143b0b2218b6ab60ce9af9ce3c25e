@@ -1,0 +1,61 @@
+I"<h1 class="no_toc" id="email-schulnetz-account-und-passwort">Email, Schulnetz-Account und Passwort</h1>
+
+<p>Auf dieser Seite findest du verschiedene Informationen zum Thema Emails abrufen, zum Umgang mit dem Schulnetz und wenn du Probleme mit deinem Passwort hast.</p>
+
+<details open="" class="mb-6">
+  <summary class="text-delta">
+    Inhalt
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#emails-im-browser-abrufen" id="markdown-toc-emails-im-browser-abrufen">Emails im Browser abrufen</a></li>
+  <li><a href="#emails-lokal-mit-outlook-abrufen" id="markdown-toc-emails-lokal-mit-outlook-abrufen">Emails lokal mit Outlook abrufen</a></li>
+  <li><a href="#emails-auf-dem-smartphone-abrufen" id="markdown-toc-emails-auf-dem-smartphone-abrufen">Emails auf dem Smartphone abrufen</a></li>
+  <li><a href="#passwort-ändern" id="markdown-toc-passwort-ändern">Passwort ändern</a></li>
+  <li><a href="#passwort-vergessen" id="markdown-toc-passwort-vergessen">Passwort vergessen</a></li>
+  <li><a href="#schulnetz-account" id="markdown-toc-schulnetz-account">Schulnetz-Account</a></li>
+</ol>
+
+</details>
+
+<h2 id="emails-im-browser-abrufen">Emails im Browser abrufen</h2>
+
+<p>Emails können einfach und geräteunabhängig online über den Browser abgerufen werden. Dazu gibt es zwei Möglichkeiten:</p>
+
+<ul>
+  <li>Direkt bei Outlook einloggen (OWA - Outlook Web Access): <a href="https://outlook.office365.com/mail">https://outlook.office365.com/mail</a>.</li>
+  <li>Alternativ zuerst bei <a href="https://www.office.com">https://www.office.com</a> einloggen (z.B. weil einfacher zu merken). Einmal bei Office eingeloggt kann man oben links über die Navigation (9 Punkte-Symbol) in die Outlook Web App wechseln.</li>
+</ul>
+
+<h2 id="emails-lokal-mit-outlook-abrufen">Emails lokal mit Outlook abrufen</h2>
+
+<h2 id="emails-auf-dem-smartphone-abrufen">Emails auf dem Smartphone abrufen</h2>
+
+<p>Beim Einrichten auf der Standard-Email-App deines Smartphones ist es wichtig, wenn möglich als Account-Typ eine der folgenden Optionen auszuwählen:</p>
+
+<ul>
+  <li>Microsoft 365</li>
+  <li>Outlook.com</li>
+  <li>Microsoft Exchange</li>
+</ul>
+
+<p>Auf einem iPhone gehen beide der folgend markierten Optionen:</p>
+
+<p><img src="../docs/img/smartphone_email.png" alt="docs/img/smartphone_email.png" title="Smartphone Email" /></p>
+
+<p>Die Installationen eines Email Accounts auf einem Smartphone ist je nach Modell verschieden. Eine Anleitung für verschiedene Smartphone-Modelle findet man auf der offiziellen Hilfe Seite von Microsoft, z.B. <a href="https://support.microsoft.com/de-de/office/einrichten-von-ger%C3%A4ten-f%C3%BCr-office-365-7fb4b75b-b939-4241-bc84-6bd9b90a7a64">hier</a>.</p>
+
+<h2 id="passwort-ändern">Passwort ändern</h2>
+
+<p>Zum Ändern des Passwortes muss man sich mit dem Browser in das Microsoft 365 Portal einloggen, z.B. unter <a href="https://www.office.com">https://www.office.com</a>. Nach dem erfolgreichen Einloggen kann man ganz oben rechts auf seinen Account klicken (man sieht entweder ein Kürzel oder sein ausgewähltes Profilfoto). Danach geht ein Optionsmenü auf, klicke da dann auf <em>Mein Konto</em>. Danach gibt es links in der Navigation die Möglichkeit, das Kennwort zu ändern. Siehe dazu auch die folgenden Screenshots.</p>
+
+<p><img src="../docs/img/pwreset1.png" alt="docs/img/pwreset1.png" title="Passwort Reset" /></p>
+
+<p><img src="../docs/img/pwreset2.png" alt="docs/img/pwreset2.png" title="Passwort Reset" /></p>
+
+<h2 id="passwort-vergessen">Passwort vergessen</h2>
+
+<p>Bei einem Verlust des Passwortes kann ein Passwort-Reset nur via Email beantragt werden. Dafür bitte ein Email an <a href="mailto:it-support@muristalden.ch">it-support@muristalden.ch</a> senden. Das Email muss von der bei Office 365 hinterlegten privaten Email Adresse gesendet werden.</p>
+
+<h2 id="schulnetz-account">Schulnetz-Account</h2>
+<p>xxx</p>
+:ET

@@ -7,10 +7,10 @@ permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
-# Office 365 Support und Anleitungen
+# Microsoft 365 Support und Anleitungen
 {: .fs-9 }
 
-We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI. We envisioneer dynamic platforms and synthesize e-business architectures, always enhancig ubiquitous content to redefine scalable metrics and ultimately serve you with web-enabled ROI.
+Die Seite ist noch im Aufbau. Bereits verfügbar sind Inhalte zu Installation und Email, Account und Passwort...
 {: .fs-6 .fw-300 }
 
 ---
@@ -21,13 +21,7 @@ We envisioneer dynamic platforms and synthesize e-business architectures, always
 
 Ich habe mein Passwort vergessen...
 
-[Passwort zurücksetzen](#getting-started){:.btn .btn-blue .fs-4}
-
-&nbsp;
-
-Ich würde gerne ein Team erstellen
-
-[Team erstellen](#getting-started){:.btn .btn-blue .fs-4}
+[Passwort zurücksetzen](../cmb365/docs/account#passwort-vergessen){:.btn .btn-blue .fs-4}
 
 &nbsp;
 
